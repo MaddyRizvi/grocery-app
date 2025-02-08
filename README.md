@@ -1,7 +1,7 @@
 # Market App
 
 ## Overview
-Market App is an Android application built using Java and RecyclerView. It displays a list of items, and when an item is clicked, a toast message appears, indicating the selected item.
+Market App is an Android application built using Java and RecyclerView. It displays a list of scrollable items, and when an item is clicked, a toast message appears, indicating the selected item.
 
 ## Screenshots
 
