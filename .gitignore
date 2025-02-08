@@ -1,0 +1,64 @@
+# Built application files
+*.apk
+*.aab
+*.ap_  
+
+# Files for the ART/Dalvik VM
+*.dex
+*.odex
+*.vdex
+*.oat
+*.art
+
+# Java class files
+*.class
+
+# Generated files
+/out/
+/build/
+
+# Gradle files
+.gradle/
+/local.properties
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Keystore files (security)
+*.jks
+*.keystore
+
+# Log files
+*.log
+
+# Android Studio specific files
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.iml
+*.hprof
+
+# NDK
+/obj/
+
+# IntelliJ IDEA plugin files
+/.idea/
+
+# Crash reports
+crashlytics/
+
+# Firebase
+app/google-services.json
+
+# ProGuard and R8
+/proguard-rules.pro
+/*.pro
