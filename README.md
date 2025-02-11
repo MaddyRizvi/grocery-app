@@ -60,7 +60,7 @@ Contributions are welcome! Follow these steps to contribute:
 5. Open a pull request with a clear description of the changes.
 
 ## License
-This project is open-source and should only be used for learning purpose. :)
+This project is open-source and should only be used for learning purpose. ;)
 
 ## Author
 - **Maddy Rizvi** - https://github.com/MaddyRizvi/grocery-app
